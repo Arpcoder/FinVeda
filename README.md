@@ -6,7 +6,7 @@
 <a href="https://fin-veda.vercel.app/" target="_blank" title="Go to the FinVeda website"><img height="144px" alt="FinVeda logo" src="/assets/images/logo.svg"></a>
 <a name="readme-top"></a>
 
-###  Say 👋🏼 to FinVeda<br>your savvy financial companion
+###  Say 👋🏼 to FinVeda<br>your savvy financial 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
